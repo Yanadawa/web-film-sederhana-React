@@ -14,7 +14,7 @@
     "web-vitals": "^2.1.4"
   },
 
-  "homepage": "https://your-username.github.io/your-repo-name",
+  "homepage": "https://yanadawa.github.io/web-film-sederhana-React",
 
   "scripts": {
     "start": "react-scripts start",
