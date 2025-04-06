@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/web-film-sederhana-React/static/css/main.b131528f.css",
+    "main.js": "/web-film-sederhana-React/static/js/main.de5cd140.js",
+    "static/js/453.5e63f68c.chunk.js": "/web-film-sederhana-React/static/js/453.5e63f68c.chunk.js",
+    "static/media/scifi.jpg": "/web-film-sederhana-React/static/media/scifi.d7e33e800ac02f489fd8.jpg",
+    "static/media/spiderman-cover.jpg": "/web-film-sederhana-React/static/media/spiderman-cover.afa570da5a7651bc1753.jpg",
+    "static/media/spiderman.jpg": "/web-film-sederhana-React/static/media/spiderman.2d8e48db70fee2a9fbe9.jpg",
+    "static/media/main.jpg": "/web-film-sederhana-React/static/media/main.4a912a242568343fea42.jpg",
+    "static/media/everything.jpg": "/web-film-sederhana-React/static/media/everything.ed96eaa84be6674ac60c.jpg",
+    "static/media/avenger.jpg": "/web-film-sederhana-React/static/media/avenger.e6f6d831ff7250a20695.jpg",
+    "static/media/robinhood.jpg": "/web-film-sederhana-React/static/media/robinhood.a811f3623395b8d5c5fd.jpg",
+    "static/media/batman.jpg": "/web-film-sederhana-React/static/media/batman.d63ba254a96468382e2b.jpg",
+    "static/media/lightyear.jpg": "/web-film-sederhana-React/static/media/lightyear.881da96e35afae963ad1.jpg",
+    "static/media/joker.jpg": "/web-film-sederhana-React/static/media/joker.4231e28eb1f27552d08f.jpg",
+    "static/media/morbius.jpg": "/web-film-sederhana-React/static/media/morbius.c2de5c653057f3da7c51.jpg",
+    "static/media/antman.jpg": "/web-film-sederhana-React/static/media/antman.b77f4ae26e0b3d82058c.jpg",
+    "static/media/infinite.jpg": "/web-film-sederhana-React/static/media/infinite.6e1272e9a944932e5963.jpg",
+    "static/media/superman.jpg": "/web-film-sederhana-React/static/media/superman.1f90bb661b43de78b7b8.jpg",
+    "static/media/dune.jpg": "/web-film-sederhana-React/static/media/dune.bf1854be9390dd5f2921.jpg",
+    "index.html": "/web-film-sederhana-React/index.html",
+    "main.b131528f.css.map": "/web-film-sederhana-React/static/css/main.b131528f.css.map",
+    "main.de5cd140.js.map": "/web-film-sederhana-React/static/js/main.de5cd140.js.map",
+    "453.5e63f68c.chunk.js.map": "/web-film-sederhana-React/static/js/453.5e63f68c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b131528f.css",
+    "static/js/main.de5cd140.js"
+  ]
+}
